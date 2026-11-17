@@ -13,3 +13,4 @@ bun run build
 | version | |
 | --- | --- |
 | [tiles](designs/planet-in-progress/versions/tiles) | <img src="designs/planet-in-progress/versions/tiles/logo-dark.png" width="320" alt="Planet in progress, tiles"> |
+| [gray](designs/planet-in-progress/versions/gray) | <img src="designs/planet-in-progress/versions/gray/logo-dark.png" width="320" alt="Planet in progress, gray"> |

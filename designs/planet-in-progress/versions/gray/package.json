@@ -1,0 +1,14 @@
+{
+  "name": "planet-in-progress-gray",
+  "private": true,
+  "type": "module",
+  "description": "A planet still being built: solid tiles on one side, scaffolding on the other, grayscale accents",
+  "scripts": {
+    "build": "bun index.js"
+  },
+  "dependencies": {
+    "@fontsource/google-sans-flex": "5.3.*",
+    "@resvg/resvg-js": "2.6.*",
+    "opentype.js": "2.0.*"
+  }
+}
